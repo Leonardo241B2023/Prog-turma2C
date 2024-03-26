@@ -4,9 +4,11 @@
 }
 
 header { background-color: #424E61;
-    color: white;
-    display: flex;
-     justify-content: space-around;
-      align-items: ;
+    color: white;}
+    .cabecalho-imagem{
+     width: 20%;
+
+
+    }
 
 }
